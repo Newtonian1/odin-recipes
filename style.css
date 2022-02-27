@@ -9,7 +9,8 @@ a {
 
 h1,
 h3,
-p {
+p,
+li {
     color: #5A0804;
     font-family: Verdana, sans-serif;
 }
